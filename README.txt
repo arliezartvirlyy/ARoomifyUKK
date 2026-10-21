@@ -2,7 +2,7 @@ ROOMIFY - SISTEM PEMINJAMAN RUANGAN
 ===================================
 
 TEKNOLOGI
-- PHP Native (disarankan PHP 8.0+)
+- PHP Native
 - MySQL / MariaDB
 - Bootstrap 5.3.8 CDN
 - XAMPP
